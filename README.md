@@ -8,6 +8,7 @@
 <h3>Redes Socias</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthur.fhermes/)
+
 <p>_________________________________________________________________________</p>
 
 <h3>Linguagens:</h3>
@@ -48,6 +49,7 @@ CiberSecurity - Cisco:
  <li><a href = "https://github.com/ArthurHermes/Certificados/blob/main/Introduction_to_Cybersecurity_Certified.pdf">Introdução a CiberSegurança</a></li>
  <li><a href = "https://github.com/ArthurHermes/Certificados/blob/main/Endpoint_Security_Certified.pdf">Segurança de Endpoint</a></li>
 </ul>
+
 <p>_________________________________________________________________________</p>
 
 <h3>Aplicativos que possuo conhecimento:</h3>
