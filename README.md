@@ -31,3 +31,7 @@
 <h3>Banco de Dados</h3>
 
  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySql)
+
+
+<h3>Experiencias</h3>
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Trello)](https://github.com/harish-sethuraman/readme-components)
