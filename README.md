@@ -36,10 +36,13 @@
 
 <h3>Cursos:</h3>
 
+<ul>
+ <li><a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 1</a></li>
+ <li><a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-2-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 2</a></li>
+ <li><a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-3-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 3</a></li>
+</ul>
 HTML e CSS - Curso em Video:
-<p>- <a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 1</a></p>
-<p>- <a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-2-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 2</a></p>
-<p>- <a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-3-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 3</a></p>
+
 
 CiberSecurity - Cisco:
 <p>- <a href = "https://github.com/ArthurHermes/Certificados/blob/main/Introduction_to_Cybersecurity_Certified.pdf">Introdução a CiberSegurança</a></p>
