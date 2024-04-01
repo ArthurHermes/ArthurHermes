@@ -37,9 +37,9 @@
 <h3>Cursos</h3>
 
 HTML e CSS - Curso em Video:
-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 1</a>
-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-2-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 2</a>
-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-3-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 3</a>
+<p>-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 1</a></p>
+<p>-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-2-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 2</a></p>
+<p>-<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-3-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">Módulo 3</a></p>
 
 <h3>Aplicativos que possuo conhecimento:</h3>
 
