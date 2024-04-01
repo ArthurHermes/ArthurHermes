@@ -13,6 +13,6 @@
 
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Php) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html5) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css3) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Php) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)
 
 
