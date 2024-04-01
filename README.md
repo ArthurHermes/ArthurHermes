@@ -39,4 +39,4 @@
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Mural)
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Bizagi)
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Astah)
-![Experience component](https://readme-components.vercel.app/api?component=experience&company=MySqlWorkbech)
+![Experience component](https://readme-components.vercel.app/api?component=experience&company=Figma)
