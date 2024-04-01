@@ -30,4 +30,4 @@
 
 <h3>Banco de Dados</h3>
 
- ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)
+ ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Sql)
