@@ -1,6 +1,5 @@
-# Sobre mim💻
+# Olá! Me chamo Arthur💻
 
-<h2>Olá! Me chamo Arthur</h2>
 <p>Meu nome completo é Arthur Franco Hermes e tenho 19 anos</p>
 <p>Sou estudante de Engenharia de Software na PucPR, atualmente estou no 3° periodo</p>
 
