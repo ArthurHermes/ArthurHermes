@@ -13,6 +13,6 @@
 
 <p>_________________________________________________________________________________________________________________________________________________</p>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html)](https://github.com/harish-sethuraman/readme-components)  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript)](https://github.com/harish-sethuraman/readme-components) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java)](https://github.com/harish-sethuraman/readme-components)  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Php) [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)](https://github.com/harish-sethuraman/readme-components)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Php) ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)
 
 
