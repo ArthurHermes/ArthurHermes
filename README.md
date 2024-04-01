@@ -31,9 +31,15 @@
 <h3>Banco de Dados</h3>
 
  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySql)
+ 
+<p>_________________________________________________________________________________________________________________________________________________</p>
 
+<h3>Cursos</h3>
 
-<h3>Aplicativos que possuo conhecimento</h3>
+HTML e CSS - Curso em Video:
+<a href="https://github.com/ArthurHermes/Certificados/blob/main/Arthur-Hermes-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf" target="blank">
+
+<h3>Aplicativos que possuo conhecimento:</h3>
 
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Trello)
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Mural)
