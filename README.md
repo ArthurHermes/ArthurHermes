@@ -10,8 +10,9 @@
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthur.fhermes/)
-<br>
-<br>
+
+<p>__________________________________________________________________________________________________________________________________________________________</p>
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Php)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)](https://github.com/harish-sethuraman/readme-components)
 
 
