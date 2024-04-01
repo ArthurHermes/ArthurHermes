@@ -35,5 +35,6 @@
 
 <h3>Experiencias</h3>
 
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Trello)](https://github.com/harish-sethuraman/readme-components)
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Mural)](https://github.com/harish-sethuraman/readme-components)
+![Experience component](https://readme-components.vercel.app/api?component=experience&company=Trello)
+![Experience component](https://readme-components.vercel.app/api?component=experience&company=Mural)
+![Experience component](https://readme-components.vercel.app/api?component=experience&company=Bizagi)
