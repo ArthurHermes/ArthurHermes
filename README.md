@@ -38,3 +38,4 @@
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Trello)
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Mural)
 ![Experience component](https://readme-components.vercel.app/api?component=experience&company=Bizagi)
+![Experience component](https://readme-components.vercel.app/api?component=experience&company=Astah)
