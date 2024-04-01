@@ -4,15 +4,15 @@
 <p>Meu nome completo é Arthur Franco Hermes e tenho 19 anos</p>
 <p>Sou estudante de Engenharia de Software na PucPR, atualmente estou no 3° periodo</p>
 
-<p>___________________________________________________________</p>
+<p>_________________________________________________________________________</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurHermes)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>___________________________________________________________</p>
+<p>_________________________________________________________________________</p>
 <h3>Redes Socias</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthur.fhermes/)
-<p>___________________________________________________________</p>
+<p>_________________________________________________________________________</p>
 
 <h3>Linguagens:</h3>
 
@@ -32,7 +32,7 @@
 
  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySql)
  
-<p>___________________________________________________________</p>
+<p>_________________________________________________________________________</p>
 
 <h3>Cursos:</h3>
 
@@ -48,7 +48,7 @@ CiberSecurity - Cisco:
  <li><a href = "https://github.com/ArthurHermes/Certificados/blob/main/Introduction_to_Cybersecurity_Certified.pdf">Introdução a CiberSegurança</a></li>
  <li><a href = "https://github.com/ArthurHermes/Certificados/blob/main/Endpoint_Security_Certified.pdf">Segurança de Endpoint</a></li>
 </ul>
-<p>___________________________________________________________</p>
+<p>_________________________________________________________________________</p>
 
 <h3>Aplicativos que possuo conhecimento:</h3>
 
